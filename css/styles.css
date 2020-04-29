@@ -1,0 +1,54 @@
+body{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color:powderblue;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 100%;
+    border-color: grey;
+    border-width: 1px;
+}
+.profile {
+  border-radius: 100%;
+
+}
+.varified {
+  border-radius: 100%;
+  border-width: 10;
+}
+.learn1 {
+  color: green;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: powderblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
